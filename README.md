@@ -81,7 +81,6 @@ Task_1/
     data.csv
     requirements.txt
     youtube_search.py
-    __pycache__/
 Task_2/
     requirements.txt
     cleaned_sponsored_soft_toys.csv
